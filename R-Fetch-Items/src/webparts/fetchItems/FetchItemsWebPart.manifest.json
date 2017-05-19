@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "a0fff633-70d5-4ed1-ae06-56e6df20bd51",
+  "alias": "FetchItemsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "a0fff633-70d5-4ed1-ae06-56e6df20bd51",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Fetch Items" },
+    "description": { "default": "Something new" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Fetch Items"
+    }
+  }]
+}

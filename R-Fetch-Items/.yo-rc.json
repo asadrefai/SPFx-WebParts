@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "r-fetch-items",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "6f008480-2144-4274-891a-567c331d4e89"
+  }
+}

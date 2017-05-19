@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "r-fetch-items-client-side-solution",
+    "id": "6f008480-2144-4274-891a-567c331d4e89",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/r-fetch-items.sppkg"
+  }
+}

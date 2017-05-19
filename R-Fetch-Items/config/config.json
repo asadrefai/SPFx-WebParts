@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/fetchItems/FetchItemsWebPart.js",
+      "manifest": "./src/webparts/fetchItems/FetchItemsWebPart.manifest.json",
+      "outputPath": "./dist/fetch-items.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "fetchItemsStrings": "webparts/fetchItems/loc/{locale}.js"
+  }
+}
