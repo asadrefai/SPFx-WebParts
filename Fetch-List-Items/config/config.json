@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/getListItems/GetListItemsWebPart.js",
+      "manifest": "./src/webparts/getListItems/GetListItemsWebPart.manifest.json",
+      "outputPath": "./dist/get-list-items.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "getListItemsStrings": "webparts/getListItems/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "fetch-list-items",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "096dc0d2-55a0-4f55-848a-e5ea71cb15c9"
+  }
+}

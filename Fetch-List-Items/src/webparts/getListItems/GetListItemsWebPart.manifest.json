@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "d908b4c4-b7db-4f6a-97b8-6c5452e42105",
+  "alias": "GetListItemsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "d908b4c4-b7db-4f6a-97b8-6c5452e42105",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Get-List-Items" },
+    "description": { "default": "Get-List-Items description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Get-List-Items"
+    }
+  }]
+}
