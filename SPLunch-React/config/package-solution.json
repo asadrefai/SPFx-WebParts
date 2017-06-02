@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-lunch-react-client-side-solution",
+    "id": "dbd74751-81f9-42e5-a46a-289285ff8d2f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-lunch-react.sppkg"
+  }
+}

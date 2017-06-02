@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-lunch-no-js-client-side-solution",
+    "id": "e7b4db13-505e-4840-bfa4-5d4af51af2c9",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-lunch-no-js.sppkg"
+  }
+}

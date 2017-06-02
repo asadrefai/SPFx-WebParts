@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "fb3249db-a43a-4afd-9de3-0bd322406550",
+  "alias": "ListItemsInLunchWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "fb3249db-a43a-4afd-9de3-0bd322406550",
+    "group": { "default": "Under Development" },
+    "title": { "default": "List-Items-In-Lunch" },
+    "description": { "default": "List-Items-In-Lunch description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "List-Items-In-Lunch"
+    }
+  }]
+}

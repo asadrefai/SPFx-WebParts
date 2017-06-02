@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "4ad940ea-e2ff-468d-9387-bb91839c4e90",
+  "alias": "ReactiveItemsInLunchWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "4ad940ea-e2ff-468d-9387-bb91839c4e90",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ReactiveItems-In-Lunch" },
+    "description": { "default": "ReactiveItems-In-Lunch description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ReactiveItems-In-Lunch"
+    }
+  }]
+}

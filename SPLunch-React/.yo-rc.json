@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "sp-lunch-react",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "dbd74751-81f9-42e5-a46a-289285ff8d2f"
+  }
+}

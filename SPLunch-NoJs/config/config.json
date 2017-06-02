@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/listItemsInLunch/ListItemsInLunchWebPart.js",
+      "manifest": "./src/webparts/listItemsInLunch/ListItemsInLunchWebPart.manifest.json",
+      "outputPath": "./dist/list-items-in-lunch.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "listItemsInLunchStrings": "webparts/listItemsInLunch/loc/{locale}.js"
+  }
+}

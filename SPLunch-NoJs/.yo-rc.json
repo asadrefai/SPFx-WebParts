@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "sp-lunch-no-js",
+    "framework": "none",
+    "version": "1.0.0",
+    "libraryId": "e7b4db13-505e-4840-bfa4-5d4af51af2c9"
+  }
+}

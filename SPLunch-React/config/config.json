@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactiveItemsInLunch/ReactiveItemsInLunchWebPart.js",
+      "manifest": "./src/webparts/reactiveItemsInLunch/ReactiveItemsInLunchWebPart.manifest.json",
+      "outputPath": "./dist/reactive-items-in-lunch.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactiveItemsInLunchStrings": "webparts/reactiveItemsInLunch/loc/{locale}.js"
+  }
+}
